@@ -15,5 +15,3 @@ for i in range(total_darts):
 
 print(f'We got {in_circle} out of {total_darts} inside the circle')
 
-print('our estimate for Π is' ,{4.0* in_circle/total_darts})
-
